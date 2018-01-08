@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.3_0ca69562827137e74ca11c9624dc8e46104f8335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.android.support\support-v4\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-27.0.2_70bb0d64d76ab34063af869c9e840c86d24a7e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.6.2_f9b956c9f2406f13d6e09663dbea0c2dd8afb2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.2_50ce7c397eba1e1dcddb2ef4e368b8341cf28ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bafff4e0892440a13a559f2ed23a5b9ab6d95354">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\core-1.0_ebeefcceb393ee658312c234fb92c6d4b18022cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-27.0.2_c693d8b163e052bec068f53ba769df470f82a03d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\common-1.0.0_03f0b56e5f3b8d86b17b3cc0765e6dd366763d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.2_5b41d70b15260be946dbeb0fb2e5c407746a20f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.2_6cc554ad50b05f0e684107e7e525b5bc4e834a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3810dd933166e9c76b2d192ee18d5699e9701bb4">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-11.6.2_c1d69b921a89df662c413500ab8c073b395d70ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0ab379ccbc45dadc6843cf258d9e741075758dd5">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-11.6.2_ad5ec9fcf1f60f93eb0fad9a9fca96d86ae42891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\common-1.0.3_4bd447167c075c9b5e7923fa741c9eebea94ec82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_fd102a894d2dbe869eb99472be59d3ba6a35821f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.2_f3749524efc4af3a221397bd14b657c2726e2e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e9dc052d4d36b53c3a1bb2d5bf634fcac5d35037">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.6.2_cb931fc71712fe638fa625fe64aa1e9850a57ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_8f5a271954b7c8e6fb56bf853f9e85ce2eecd992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="21fff55a9a49a1e8dadbe3cc0fc56777a085186f">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-11.6.2_05e12c2432d8655f727541373d20a729fef130be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.3.0_69ca54634155f9b964ee424676dfd881a07ba3b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_406c9faab4b04fd6f735ae58ac792045573276ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2187ba282e1bb00afbaf23f5a4227b5c399e2b21">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-11.6.2_a50330c80ff65b627e00940ea6d54b9328c69748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="225f093d9a041f8206d812d3055a886a816ac365">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.6.2_b53323fc2f38c88c4beddc394468b00b289b3f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="64adc9f1351d7d04b236dca2e7b980a486bdacb5">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-api-phone-11.6.2_3e4509f0e733a27d9cfbabf3546d899f4aae6764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\obito\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\obito\Desktop\RainyEggs\android\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_1e85ea0c7418dab53ce50bdc0e5945bf138aeb2d.jar" />
+    </item>
+
+</items>

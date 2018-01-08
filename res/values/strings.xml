@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rainy Eggs</string>
+    <string name="leaderboard_id">CgkI0rOkk4gHEAIQAQ</string>
+    <string name="app_id">242706094546</string>
+    <string name="connect_error">Connect Error</string>
+
+</resources>
